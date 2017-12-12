@@ -24,7 +24,7 @@ set.seed(156)
 
 First let's import the data we scraped from the python script 'scrapeLA.py'. This data comes from city-data.com, a website that aggregates census tract data by city neighborhood.
 ```{r, message=FALSE, warning=FALSE}
-neighbData <- read_csv("~/Documents/Data Science /Scrape_LA/neighbData.csv")
+neighbData <- read_csv("neighbData.csv")
 ```
 
 
