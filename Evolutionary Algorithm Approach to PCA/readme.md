@@ -1,0 +1,3 @@
+# An Evolutionary Algorithm Approach to Principal Component Analysis
+
+I build an evolutionary algorithm to approximate principal component analysis. I apply this evolutionary algorithm to the British government’s Department of Education’s data set “Longitudinal Study of Young People in England.” This data set records interests, hobbies, demographic info, and personality traits of adolescents. My research question was to examine which personality traits vary together and approximate latent fundamental "principal components" of personality. This project was done for a Computational Biology class.
